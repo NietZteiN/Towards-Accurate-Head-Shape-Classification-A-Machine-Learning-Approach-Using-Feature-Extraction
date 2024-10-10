@@ -3,6 +3,9 @@
 ## Overview
 This project aims to develop a machine learning methodology to classify head shapes into various categories with high accuracy. This method has potential applications in automating the detection of cranial abnormalities, simplifying the early diagnosis of craniofacial issues. By associating the classification model with diagnostic tools, it can enhance diagnostic rates and reduce reliance on extensive medical expertise.
 
+## Code
+The code for this project is available on GitHub. You can access it [here](https://colab.research.google.com/drive/1vrFKhUwChrEvTIk9g7A9MSgWRGmV5zvX?usp=sharing).
+
 ## Dataset
 Due to the lack of publicly available datasets containing overhead images of alopecia heads, a new dataset was created. The images were collected from various sources and preprocessed by cropping, rotating, and augmenting them to ensure consistency and robustness for future research.
 
